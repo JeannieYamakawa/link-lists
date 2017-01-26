@@ -1,2 +1,2 @@
 # link-lists
-created by jeannie.
+starting with singly-linked, solution created by jeannie and lots of reading.
